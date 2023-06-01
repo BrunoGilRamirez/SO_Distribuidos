@@ -1,0 +1,3 @@
+#Sistema Despachador de procesos Distribuido
+Construir un sistema que permita ejecutar procesos en un ambiente distribuido con balance de carga. El sistema distribuido deberá contar con al menos tres nodos, cada nodo deberá permitir ejecutar procesos.
+Paraconstruir este sistema, se deberá hacer uso de un despachador de procesos que implemente un algoritmo de despacho,tal como Round Robin. Este despachador estará ejecutando procesos todo el tiempo, mientras que otro proceso los estará recibiendo. Los procesos son simulados, y cada proceso contará con un nombre y un tiempo de ejecución dado en segundos. 
